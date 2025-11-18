@@ -52,7 +52,7 @@ export function useLoadUserData() {
         console.log('Raw Pokedex account:', pokedexAccount);
 
         // The ids field contains the raw Pokemon IDs that were caught
-        const caughtIds = Array.from(pokedexAccount.ids as number[]);
+        const caughtIds: number[] = Array.from(pokedexAccount.ids);
         console.log('Caught Pokemon IDs:', caughtIds);
         setCaughtPokemon(caughtIds);
 

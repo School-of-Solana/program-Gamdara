@@ -3,8 +3,9 @@ import { Connection, PublicKey } from '@solana/web3.js';
 import { AnchorWallet } from '@solana/wallet-adapter-react';
 import { PROGRAM_ID, RPC_ENDPOINT } from '../constants';
 import IDL from '../../idl.json';
+import { PokegachaContract } from '@/pokegacha_contract';
 
-export type PokegachaProgram = Program<Idl>;
+export type PokegachaProgram = Program<PokegachaContract>;
 
 // Create connection
 export const connection = new Connection(RPC_ENDPOINT, 'confirmed');
