@@ -1,6 +1,6 @@
 # Project Description
 
-**Deployed Frontend URL:** [Add your Vercel deployment URL here]
+**Deployed Frontend URL:** https://gachadex.vercel.app
 
 **Solana Program ID:** `3ekPFgdBXUEFQwY1kDqfMpebP68jxba65erehQwcd8zw`
 
