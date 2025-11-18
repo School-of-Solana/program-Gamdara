@@ -1,0 +1,190 @@
+@import "tailwindcss";
+
+:root {
+  /* RetroUI Default Color Scheme */
+  --primary-bg: #c381b5;        /* Primary pink/purple */
+  --primary-text: #fefcd0;      /* Light cream/yellow */
+  --secondary-bg: #fefcd0;      /* Light cream/yellow */
+  --secondary-text: #000;       /* Black */
+
+  /* Component defaults */
+  --card-bg: #f0f0f0;           /* Light gray */
+  --button-bg: #c381b5;         /* Pink/purple */
+  --accent-color: #c381b5;      /* Pink/purple */
+  --text-primary: #000;         /* Black */
+  --border-color: #000;         /* Black */
+  --shadow-color: #767676;      /* Gray */
+
+  /* Desktop wrapper color */
+  --desktop-bg: #ffffff;        /* White */
+}
+
+@theme inline {
+  --color-primary: var(--primary-bg);
+  --color-accent: var(--accent-color);
+  --color-background: var(--desktop-bg);
+  --color-foreground: var(--text-primary);
+}
+
+* {
+  margin: 0;
+  /* padding: 0; */
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--desktop-bg);
+  color: var(--text-primary);
+  font-family: 'MinecraftRegular', monospace;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+/* Disable text antialiasing for pixelated look */
+* {
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never;
+}
+
+/* Mobile container for desktop view */
+.mobile-container {
+  min-height: 100vh;
+  /* background-color: #fefcd0; */
+  background-image: linear-gradient(90deg, #80808012 1px, transparent 0), linear-gradient(180deg, #80808012 1px, transparent 0);
+  background-size: 24px 24px;
+}
+
+@media (min-width: 768px) {
+  .mobile-container {
+    max-width: 728px;
+    margin: 0 auto;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+}
+
+/* Pixelated image rendering */
+.pixelated {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+/* Marquee animations */
+@keyframes marquee-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes marquee-right {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.marquee-left {
+  animation: marquee-left 30s linear infinite;
+}
+
+.marquee-right {
+  animation: marquee-right 30s linear infinite;
+}
+
+/* Floating animations for Pokemon */
+@keyframes float-1 {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  25% {
+    transform: translate(10px, -15px) scale(1.05);
+  }
+  50% {
+    transform: translate(-5px, -25px) scale(0.95);
+  }
+  75% {
+    transform: translate(-15px, -10px) scale(1.02);
+  }
+}
+
+@keyframes float-2 {
+  0%, 100% {
+    transform: translate(0, 0) rotate(0deg);
+  }
+  33% {
+    transform: translate(-12px, -20px) rotate(5deg);
+  }
+  66% {
+    transform: translate(8px, -15px) rotate(-5deg);
+  }
+}
+
+@keyframes float-3 {
+  0%, 100% {
+    transform: translate(0, 0);
+  }
+  20% {
+    transform: translate(15px, -10px);
+  }
+  40% {
+    transform: translate(5px, -25px);
+  }
+  60% {
+    transform: translate(-10px, -20px);
+  }
+  80% {
+    transform: translate(-8px, -8px);
+  }
+}
+
+@keyframes float-4 {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  50% {
+    transform: translate(-15px, -30px) scale(1.1);
+  }
+}
+
+@keyframes float-5 {
+  0%, 100% {
+    transform: translate(0, 0);
+  }
+  25% {
+    transform: translate(-8px, -12px);
+  }
+  50% {
+    transform: translate(12px, -25px);
+  }
+  75% {
+    transform: translate(5px, -18px);
+  }
+}
+
+.float-1 {
+  animation: float-1 8s ease-in-out infinite;
+}
+
+.float-2 {
+  animation: float-2 10s ease-in-out infinite;
+}
+
+.float-3 {
+  animation: float-3 7s ease-in-out infinite;
+}
+
+.float-4 {
+  animation: float-4 9s ease-in-out infinite;
+}
+
+.float-5 {
+  animation: float-5 6s ease-in-out infinite;
+}

@@ -1,0 +1,2144 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "rarity": "SR",
+    "description": "A seed Pokémon that stores energy in its bulb.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "rarity": "SR",
+    "description": "Its bud grows as it absorbs sunlight.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "rarity": "SSR",
+    "description": "The flower on its back blooms with strong sunlight.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "rarity": "SR",
+    "description": "A lizard Pokémon with a life-linked flame on its tail.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "rarity": "SR",
+    "description": "A fierce fighter that lashes with its burning tail.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "rarity": "SSR",
+    "description": "Spits intense flames that can melt boulders.",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "weakness": [
+      "Water",
+      "Electric",
+      "Rock"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "rarity": "SR",
+    "description": "Shoots water from its mouth with great precision.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "rarity": "SR",
+    "description": "Its fluffy tail is a symbol of longevity.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "rarity": "SSR",
+    "description": "Crushes foes with high-pressure water jets from its cannons.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "rarity": "R",
+    "description": "A worm Pokémon that loves to eat leaves.",
+    "type": [
+      "Bug"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Metapod",
+    "rarity": "R",
+    "description": "Its shell is hard while it prepares to evolve.",
+    "type": [
+      "Bug"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Butterfree",
+    "rarity": "R",
+    "description": "Scatters poisonous powder with its wings.",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "weakness": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Weedle",
+    "rarity": "R",
+    "description": "A tiny bug Pokémon with a poisonous stinger.",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Kakuna",
+    "rarity": "R",
+    "description": "Almost incapable of movement as it prepares to evolve.",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Beedrill",
+    "rarity": "R",
+    "description": "Defends its colony with its twin needle arms.",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Pidgey",
+    "rarity": "R",
+    "description": "A common sight that flaps its wings to stir up dust.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Pidgeotto",
+    "rarity": "R",
+    "description": "Territorially flies around its large forest domain.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Pidgeot",
+    "rarity": "SR",
+    "description": "Flies at high speed to strike unsuspecting prey.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Rattata",
+    "rarity": "R",
+    "description": "Gnaws on anything with its sharp incisors.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Raticate",
+    "rarity": "R",
+    "description": "Its powerful teeth can topple concrete walls.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Spearow",
+    "rarity": "R",
+    "description": "Irritable and aggressive, it attacks in flocks.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Fearow",
+    "rarity": "R",
+    "description": "A long-necked bird that patrols wide territories.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Ekans",
+    "rarity": "R",
+    "description": "A sneaky snake that coils and waits for prey.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Arbok",
+    "rarity": "R",
+    "description": "Threatens foes with the frightening pattern on its hood.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Pikachu",
+    "rarity": "SSR",
+    "description": "Stores electricity in its cheeks and releases shocks.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Raichu",
+    "rarity": "SSR",
+    "description": "Its electric charges can knock out even large foes.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sandshrew",
+    "rarity": "R",
+    "description": "Burrows deep underground to stay cool and safe.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Sandslash",
+    "rarity": "SR",
+    "description": "Rolls into a ball and strikes with its sharp claws.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Nidoran♀",
+    "rarity": "R",
+    "description": "A cautious Pokémon that uses its small horn for defense.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Nidorina",
+    "rarity": "R",
+    "description": "Loses its horn as it matures and becomes gentler.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Nidoqueen",
+    "rarity": "SR",
+    "description": "A powerful defender that protects its young fiercely.",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Ice",
+      "Psychic",
+      "Ground"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Nidoran♂",
+    "rarity": "R",
+    "description": "Has larger ears and horn than the female counterpart.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nidorino",
+    "rarity": "R",
+    "description": "An aggressive Pokémon that charges with its horn.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Nidoking",
+    "rarity": "SR",
+    "description": "Uses its powerful tail and horn to devastate foes.",
+    "type": [
+      "Poison",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Ice",
+      "Psychic",
+      "Ground"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Clefairy",
+    "rarity": "SR",
+    "description": "Said to come from the moon and love dancing under starlight.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Clefable",
+    "rarity": "SSR",
+    "description": "A mysterious Pokémon that rarely shows itself to people.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Vulpix",
+    "rarity": "R",
+    "description": "Has six tails that grow more beautiful with age.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Ninetales",
+    "rarity": "SSR",
+    "description": "A vengeful fox with nine long, cursed tails.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Jigglypuff",
+    "rarity": "R",
+    "description": "Sings lullabies that make its audience fall asleep.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Wigglytuff",
+    "rarity": "SSR",
+    "description": "Its body is soft and elastic yet surprisingly resilient.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Zubat",
+    "rarity": "R",
+    "description": "A bat Pokémon that navigates with ultrasonic cries.",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Golbat",
+    "rarity": "R",
+    "description": "Drains blood with its fangs and flies silently at night.",
+    "type": [
+      "Poison",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Oddish",
+    "rarity": "R",
+    "description": "Roams at night planting itself to absorb moonlight.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Gloom",
+    "rarity": "R",
+    "description": "Releases a stinky honey-like aroma from its pistil.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Vileplume",
+    "rarity": "SR",
+    "description": "Its massive flower scatters allergy-inducing pollen.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Paras",
+    "rarity": "R",
+    "description": "Fungi on its back drain its nutrients.",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Poison",
+      "Ice",
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Parasect",
+    "rarity": "R",
+    "description": "The fungus has taken over its body completely.",
+    "type": [
+      "Bug",
+      "Grass"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Poison",
+      "Ice",
+      "Bug",
+      "Rock"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Venonat",
+    "rarity": "R",
+    "description": "Large eyes act like radar to spot tiny prey.",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Venomoth",
+    "rarity": "R",
+    "description": "Scatters toxic scales from its wings when it flies.",
+    "type": [
+      "Bug",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Psychic",
+      "Rock"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Diglett",
+    "rarity": "R",
+    "description": "Lives underground and surfaces only briefly.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Dugtrio",
+    "rarity": "R",
+    "description": "Three Digletts acting together move lightning fast.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Meowth",
+    "rarity": "R",
+    "description": "Loves shiny objects and roams at night.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Persian",
+    "rarity": "R",
+    "description": "A classy Pokémon that strikes with swift elegance.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Psyduck",
+    "rarity": "R",
+    "description": "Suffers from constant headaches that unleash psychic power.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Golduck",
+    "rarity": "SR",
+    "description": "A fast swimmer said to rescue drowning people.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Mankey",
+    "rarity": "R",
+    "description": "Easily angered and attacks anything it sees.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Primeape",
+    "rarity": "SR",
+    "description": "Never stops chasing anything that angers it.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Growlithe",
+    "rarity": "R",
+    "description": "A loyal puppy that barks bravely at intruders.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Arcanine",
+    "rarity": "SSR",
+    "description": "Legendary in China for its beauty and speed.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Poliwag",
+    "rarity": "R",
+    "description": "Its spiral belly shows its internal organs.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poliwhirl",
+    "rarity": "R",
+    "description": "Uses its swirl pattern to hypnotize opponents.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Poliwrath",
+    "rarity": "R",
+    "description": "A strong swimmer that can cross the ocean with ease.",
+    "type": [
+      "Water",
+      "Fighting"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Abra",
+    "rarity": "R",
+    "description": "Sleeps 18 hours a day and teleports to escape danger.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Kadabra",
+    "rarity": "R",
+    "description": "Its spoon amplifies extraordinary psychic powers.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Alakazam",
+    "rarity": "SSR",
+    "description": "Has an IQ said to be over 5000.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Machop",
+    "rarity": "R",
+    "description": "Trains its muscles endlessly to become stronger.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Machoke",
+    "rarity": "R",
+    "description": "Wears a belt to control its overwhelming power.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Machamp",
+    "rarity": "SSR",
+    "description": "Its four arms deliver a flurry of punches.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Bellsprout",
+    "rarity": "R",
+    "description": "Lures prey with its sweet scent and dissolves them.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Weepinbell",
+    "rarity": "R",
+    "description": "Uses vine whips and acidic spit to catch prey.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Victreebel",
+    "rarity": "SR",
+    "description": "Waits motionless to swallow anything that approaches.",
+    "type": [
+      "Grass",
+      "Poison"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Tentacool",
+    "rarity": "R",
+    "description": "Drifts in shallow seas and can sting with its tentacles.",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "weakness": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Tentacruel",
+    "rarity": "SR",
+    "description": "Controls many tentacles to capture its foes.",
+    "type": [
+      "Water",
+      "Poison"
+    ],
+    "weakness": [
+      "Electric",
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Geodude",
+    "rarity": "R",
+    "description": "Often mistaken for a rock by hikers.",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Graveler",
+    "rarity": "R",
+    "description": "Rolls down slopes, smashing into anything in its path.",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Golem",
+    "rarity": "R",
+    "description": "Its rock shell cracks when it sheds its skin.",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Ponyta",
+    "rarity": "R",
+    "description": "Its fiery mane burns hotter as it runs faster.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Rapidash",
+    "rarity": "SR",
+    "description": "Gallops so fast it appears as a shimmering blur.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Slowpoke",
+    "rarity": "R",
+    "description": "So slow that it sometimes forgets it has been hurt.",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Slowbro",
+    "rarity": "SSR",
+    "description": "A Shellder bite made it evolve and less aware of pain.",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Magnemite",
+    "rarity": "R",
+    "description": "A cluster of magnets that floats using electromagnetic waves.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Magneton",
+    "rarity": "SR",
+    "description": "Three Magnemite linked by strong magnetic forces.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Farfetch'd",
+    "rarity": "SR",
+    "description": "Carries a leek stalk it uses like a sword.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Doduo",
+    "rarity": "R",
+    "description": "A two-headed bird that runs rather than flies.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Dodrio",
+    "rarity": "R",
+    "description": "Its three heads represent joy, anger, and sorrow.",
+    "type": [
+      "Normal",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Seel",
+    "rarity": "R",
+    "description": "Loves freezing seas and swims gracefully in icy water.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Dewgong",
+    "rarity": "SR",
+    "description": "Its body is insulated against arctic cold.",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Grimer",
+    "rarity": "R",
+    "description": "Born from polluted sludge, it smells terrible.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Muk",
+    "rarity": "R",
+    "description": "Its toxic body can foul even clean water.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Shellder",
+    "rarity": "R",
+    "description": "Clamps tightly with its sturdy shell.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Cloyster",
+    "rarity": "SR",
+    "description": "Its shell is harder than diamond.",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Gastly",
+    "rarity": "R",
+    "description": "A ball of gas that can slip through any wall.",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "weakness": [
+      "Ghost",
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Haunter",
+    "rarity": "R",
+    "description": "Licks foes with its tongue to sap their life.",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "weakness": [
+      "Ghost",
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Gengar",
+    "rarity": "SSR",
+    "description": "Hides in shadows and causes eerie chills.",
+    "type": [
+      "Ghost",
+      "Poison"
+    ],
+    "weakness": [
+      "Ghost",
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Onix",
+    "rarity": "SR",
+    "description": "A massive rock snake that tunnels through mountains.",
+    "type": [
+      "Rock",
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Drowzee",
+    "rarity": "R",
+    "description": "Puts people to sleep and eats their dreams.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Hypno",
+    "rarity": "SR",
+    "description": "Uses its pendulum to control others' sleep.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Krabby",
+    "rarity": "R",
+    "description": "A crab Pokémon that lives on beaches and river mouths.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Kingler",
+    "rarity": "SR",
+    "description": "Has a huge pincer that packs intense power.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Voltorb",
+    "rarity": "R",
+    "description": "Looks like a Poké Ball and may self-destruct.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Electrode",
+    "rarity": "R",
+    "description": "The fastest Pokémon that often explodes.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Exeggcute",
+    "rarity": "R",
+    "description": "A group of eggs linked by psychic power.",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Exeggutor",
+    "rarity": "SSR",
+    "description": "A walking tropical tree with multiple heads.",
+    "type": [
+      "Grass",
+      "Psychic"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Cubone",
+    "rarity": "R",
+    "description": "Wears the skull of its deceased mother.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Marowak",
+    "rarity": "SR",
+    "description": "A bone-wielding warrior skilled in club attacks.",
+    "type": [
+      "Ground"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Ice"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Hitmonlee",
+    "rarity": "SR",
+    "description": "Extends and retracts its legs to deliver high kicks.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Hitmonchan",
+    "rarity": "SR",
+    "description": "Punches at blinding speed with different elemental blows.",
+    "type": [
+      "Fighting"
+    ],
+    "weakness": [
+      "Flying",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Lickitung",
+    "rarity": "SR",
+    "description": "Uses its long tongue to taste and explore everything.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Koffing",
+    "rarity": "R",
+    "description": "Filled with toxic gases that explode when ignited.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Weezing",
+    "rarity": "SR",
+    "description": "Twin Koffing that merged into one poisonous cloud.",
+    "type": [
+      "Poison"
+    ],
+    "weakness": [
+      "Ground",
+      "Psychic"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Rhyhorn",
+    "rarity": "R",
+    "description": "A rough Pokémon that charges without thinking.",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Rhydon",
+    "rarity": "SSR",
+    "description": "Walks on hind legs and can topple buildings.",
+    "type": [
+      "Ground",
+      "Rock"
+    ],
+    "weakness": [
+      "Water",
+      "Grass",
+      "Fighting",
+      "Ground",
+      "Ice"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Chansey",
+    "rarity": "SSR",
+    "description": "A rare Pokémon that shares its healing egg.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Tangela",
+    "rarity": "SR",
+    "description": "A vine-covered body that hides its true form.",
+    "type": [
+      "Grass"
+    ],
+    "weakness": [
+      "Fire",
+      "Ice",
+      "Poison",
+      "Flying",
+      "Bug"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Kangaskhan",
+    "rarity": "SSR",
+    "description": "Raises its baby in a protective pouch.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Horsea",
+    "rarity": "R",
+    "description": "Spits ink to escape while swimming in the sea.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Seadra",
+    "rarity": "SR",
+    "description": "Its sharp fins can cut through drifters in the sea.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Goldeen",
+    "rarity": "R",
+    "description": "A graceful swimmer nicknamed the water queen.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Seaking",
+    "rarity": "SR",
+    "description": "Digs nests in riverbeds during breeding season.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Staryu",
+    "rarity": "R",
+    "description": "Its core glows at night like a star.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Starmie",
+    "rarity": "SSR",
+    "description": "An enigmatic Pokémon that emits strange radio signals.",
+    "type": [
+      "Water",
+      "Psychic"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Mr. Mime",
+    "rarity": "SR",
+    "description": "Creates invisible walls with its miming gestures.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Scyther",
+    "rarity": "SSR",
+    "description": "A swift hunter that slashes with sharp scythes.",
+    "type": [
+      "Bug",
+      "Flying"
+    ],
+    "weakness": [
+      "Fire",
+      "Electric",
+      "Ice",
+      "Flying",
+      "Rock"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Jynx",
+    "rarity": "SR",
+    "description": "A humanoid Pokémon that dances and chants spells.",
+    "type": [
+      "Ice",
+      "Psychic"
+    ],
+    "weakness": [
+      "Fire",
+      "Rock",
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Electabuzz",
+    "rarity": "SR",
+    "description": "Draws power from thunderclouds and power plants.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Magmar",
+    "rarity": "SR",
+    "description": "Lives near volcanoes and bathes in lava.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Pinsir",
+    "rarity": "SSR",
+    "description": "Crushes enemies with its powerful horns.",
+    "type": [
+      "Bug"
+    ],
+    "weakness": [
+      "Fire",
+      "Flying",
+      "Rock"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Tauros",
+    "rarity": "SSR",
+    "description": "A wild bull that charges while whipping itself.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Magikarp",
+    "rarity": "R",
+    "description": "Famous for being weak but persistent.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Gyarados",
+    "rarity": "UR",
+    "description": "A once-weak fish that became a raging sea serpent.",
+    "type": [
+      "Water",
+      "Flying"
+    ],
+    "weakness": [
+      "Electric",
+      "Rock"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Lapras",
+    "rarity": "UR",
+    "description": "A gentle giant that ferries people across seas.",
+    "type": [
+      "Water",
+      "Ice"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Rock"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ditto",
+    "rarity": "SSR",
+    "description": "Transforms into any Pokémon it sees.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Eevee",
+    "rarity": "R",
+    "description": "Has unstable genes that allow many evolutions.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Vaporeon",
+    "rarity": "SSR",
+    "description": "Can melt into water and vanish from sight.",
+    "type": [
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Jolteon",
+    "rarity": "SSR",
+    "description": "Builds up static charge in its fur to strike.",
+    "type": [
+      "Electric"
+    ],
+    "weakness": [
+      "Ground"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Flareon",
+    "rarity": "SSR",
+    "description": "Stores intense heat in its fluffy coat.",
+    "type": [
+      "Fire"
+    ],
+    "weakness": [
+      "Water",
+      "Ground",
+      "Rock"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Porygon",
+    "rarity": "SSR",
+    "description": "A Pokémon made entirely of programming code.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Omanyte",
+    "rarity": "R",
+    "description": "A resurrected ancient shellfish Pokémon.",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Omastar",
+    "rarity": "SSR",
+    "description": "Uses its many tentacles to ensnare prey.",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Kabuto",
+    "rarity": "R",
+    "description": "A resurrected fossil that hides under rocks.",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Kabutops",
+    "rarity": "SSR",
+    "description": "A predator that slices with blade-like arms.",
+    "type": [
+      "Rock",
+      "Water"
+    ],
+    "weakness": [
+      "Electric",
+      "Grass",
+      "Fighting",
+      "Ground"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Aerodactyl",
+    "rarity": "UR",
+    "description": "A savage prehistoric Pokémon that ruled the skies.",
+    "type": [
+      "Rock",
+      "Flying"
+    ],
+    "weakness": [
+      "Water",
+      "Electric",
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Snorlax",
+    "rarity": "UR",
+    "description": "Sleeps most of the time and blocks roads.",
+    "type": [
+      "Normal"
+    ],
+    "weakness": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Articuno",
+    "rarity": "UR",
+    "description": "A legendary bird that controls ice and snow.",
+    "type": [
+      "Ice",
+      "Flying"
+    ],
+    "weakness": [
+      "Fire",
+      "Electric",
+      "Rock"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Zapdos",
+    "rarity": "UR",
+    "description": "A legendary bird that controls thunder.",
+    "type": [
+      "Electric",
+      "Flying"
+    ],
+    "weakness": [
+      "Ice",
+      "Rock"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Moltres",
+    "rarity": "UR",
+    "description": "A legendary bird wreathed in sacred flames.",
+    "type": [
+      "Fire",
+      "Flying"
+    ],
+    "weakness": [
+      "Water",
+      "Electric",
+      "Rock"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Dratini",
+    "rarity": "SR",
+    "description": "A mysterious dragon Pokémon that molts as it grows.",
+    "type": [
+      "Dragon"
+    ],
+    "weakness": [
+      "Ice",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Dragonair",
+    "rarity": "SSR",
+    "description": "Glides gracefully and controls the weather.",
+    "type": [
+      "Dragon"
+    ],
+    "weakness": [
+      "Ice",
+      "Dragon"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Dragonite",
+    "rarity": "UR",
+    "description": "A kindhearted dragon that circles the globe in 16 hours.",
+    "type": [
+      "Dragon",
+      "Flying"
+    ],
+    "weakness": [
+      "Ice",
+      "Dragon",
+      "Rock"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Mewtwo",
+    "rarity": "UR",
+    "description": "A genetically engineered Pokémon with terrifying power.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Mew",
+    "rarity": "UR",
+    "description": "Contains the genetic code of all Pokémon.",
+    "type": [
+      "Psychic"
+    ],
+    "weakness": [
+      "Bug",
+      "Ghost"
+    ]
+  }
+]
